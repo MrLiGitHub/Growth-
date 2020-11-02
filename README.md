@@ -1,4 +1,5 @@
 # Growth-
+
 The road to technological growth.
 
 第一周：复习23种设计模式				目标：根据实际情况选择相应设计模式，并写出简单demo，并说出优点
